@@ -1,0 +1,50 @@
+asmTransliT - an English - Russian transliterator for Windows x86 
+written in masm32.
+Copyright (C) Judge_Dredd aka Turbo Lover
+
+Judge Dredd   
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.19 (GNU/Linux)
+
+mQENBFFlLooBCACdGMxDHiuSsNnfktK5KmSk4Qtum2T1XAEHrgA3fpLeHrMCJUtb
+DtQou/7HxuNUZUzCPEJgWGNtIt+G82rKRWz67SMTASRLg8Rr147ax6eJGelTeF47
+on7jo9G70Mb45epybhbwUB5ItnqlIRhXmmjzfOn55SmVODKOjCHK/9bbwg+6I86I
+EgOcFP8E+U3obH5w4qYOF2j1+MO0KfdopV+rjLVqJMuDAHu3dpDudPubj0sEx3w1
+KaN5pXDkpkDT8TBQwCRxtuMeSZL/OGbf0ZPN2MIduRaEutL2WjlNiqnZFFk94BEj
+OfTVlQlu/NguFzp7/B+dDD7PZ1VWEF+o3ci5ABEBAAG0H0p1ZGdlIERyZWRkIDx0
+aGUuZ3VhcmRAbWFpbC5ydT6JATkEEwECACMFAlFlLooCGwMHCwkIBwMCAQYVCAIJ
+CgsEFgIDAQIeAQIXgAAKCRCuuCC9biNoWuA4B/sEg9JTZwDj5WcVI0rAgY+f7xH7
+x6mIU3JcaacILFlYbkqugL/Otdk7obqJRhYxUowUaQkfKW/v+AN6vCIeCoARGQeJ
+C5FuN0LrCbwwEbR20B/hJczjA6/3n2yp38s0XWrcD0ijnffFQkH1UAu51bX77EP6
+VrvKP5NveCQ0lhBSMD33Iv24UA5s+Lh0qFZOugwENEYB9G8BMYCOXs4UTVJy43vZ
+oNcvrKvzFmFik1MqRwlpE7A31bOY5NaMzEqpHzaMod/N53kG08u2bUI3k+bNQ4yq
+k6BeBHigMIRul4+vSA0L4KFQuwBq0Tl7n8xRWPXDkBbc+Y+yBkcNit2k7JZ8uQEN
+BFFlLooBCAC6ZQ1UjrJyMJma1Dnh2Yefs2RSeL45idL3bQQotIzmzJF1OjnCLszE
+1dYKslkFTzD4o61Rriu6S4HEUXJNQoPMlZWA8rWNcsUVwDYkiNqOVtU1QskfyE0s
+hM72yZ5iBFZv0Qsi8qmdzlr0qXy8VquDzcwcpuJe2IWCXIC1ihAMyVvb6LnKE8Vf
+a08qZADCHw1t8nTWmFhoPxtonSASdourP2OywCduzKjVXt3amRggrhc6Ofk/4IJ0
+6t0zfmNmM9pQy/fYBQoER9Km4hLQPyLBHLuLdtK83V2Lda36De1FODGrgLph8ueg
+MZYXHt+CGasmqE8AZaRt9kAzOD1ixo+pABEBAAGJAR8EGAECAAkFAlFlLooCGwwA
+CgkQrrggvW4jaFqq0Qf5Abu0o6QD9/09tlC44TKyB/FPgjlhLezPy3i+ycbFR2a6
+TrIU+NygPYONTPfBs7tj3J4hsi2sFEj7pkKFGhDnLPzA3JlTDeJvLSmk4ybG8cBt
+WLZ4cznWLIIAOINRZJohqebhULmK4XUgb7VvTSCtUmUr2BV6FyDbsj4IIfbfpvLL
+fDUjdnhTVWjDjynYKKqFLVF6c9S0vz1xBPKYl280korCedWuIrd6NuQxi1C+nEdm
+UwY9MGVsNxAXALFgWD6EahU9cFFKl2VQ4jZkl8buEOVhJsXwfIGnSlsGKBMdPnBD
+KiaRKZoqQbVnU6WPH2+uZ/9iqQhjpvmXZ4c7CVjtCg==
+=NLeC
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
