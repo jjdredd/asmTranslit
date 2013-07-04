@@ -1,0 +1,19 @@
+#include "resource.h"
+
+#define IDC_EDIT                                       3000
+#define IDC_BUTTON                                     3001
+#define IDC_EXIT                                       3002
+#define IDC_EDIT1                                      3003
+
+MyDialog DIALOG 10, 10, 205, 175
+STYLE 0x0004 | DS_CENTER | WS_CAPTION | WS_MINIMIZEBOX |
+WS_SYSMENU | WS_VISIBLE | WS_OVERLAPPED | DS_MODALFRAME | DS_3DLOOK
+CAPTION "TransliT"
+BEGIN
+    EDITTEXT         IDC_EDIT,   15,17,175,60, ES_LEFT | ES_MULTILINE | WS_BORDER | ES_WANTRETURN
+    EDITTEXT         IDC_EDIT1,   15,80,175,60, ES_LEFT | ES_MULTILINE | WS_BORDER | ES_READONLY
+   
+    DEFPUSHBUTTON   "TransliT", IDC_BUTTON,    40,150,52,13
+    PUSHBUTTON      "E&xit", IDC_EXIT,  110,150,52,13
+END
+
