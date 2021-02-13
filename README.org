@@ -1,0 +1,7 @@
+* asmTranslit
+  an latin-cyrillic transliterator for russian language
+  in assembly for win32
+
+  - build with masm32 ide
+  - simple win32 UI
+  

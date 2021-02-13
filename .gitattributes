@@ -1,0 +1,2 @@
+*.RC linguist-detectable=false
+*.H linguist-detectable=false
